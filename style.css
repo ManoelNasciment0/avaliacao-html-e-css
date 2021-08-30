@@ -1,0 +1,140 @@
+.eu {
+    border: 0px solid rgb(48, 48, 48);
+    border-radius: 50%;
+    width: 110px;
+    height: 110px;
+    padding-right: 17px;
+    margin-left: 85px;
+}
+body {
+    background-color: grey;
+    margin-top: 11px;
+    
+
+}
+#first {
+    background-color: #FFFFFF;
+    width: 800px;
+    height: 1000px;
+    display: inline-block;
+    padding-top: 85px;
+    
+    
+    
+    
+    
+}
+#second {
+    background-color: #19304F;
+    width: 300px;
+    height: 1000px;
+    display: inline-block;
+    padding-top: 85px;  
+    
+    
+}
+.container {
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   
+}
+.second {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-right: 11px;
+    display: inline;
+    
+    color: #19304F;
+}
+.first {
+    margin-top: 7px;
+  
+    font-family: 'Roboto', sans-serif;
+    color: #19304F;
+}
+h3 {
+    color: whitesmoke;
+}
+.third {
+    color: whitesmoke;
+}
+.fourth {
+    color: whitesmoke;
+}
+.insta {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-left: 113px;
+    margin-right: auto;
+    justify-content: center;
+    
+}
+.link {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: auto;
+    justify-content: center;
+}
+.fifth {
+    color: #19304F;
+    padding-left: 85px;
+    padding-top: 46px;
+    padding-bottom: -45px;
+}
+.pezinho {
+    font-family: 'Roboto', sans-serif;
+    color: #222222;
+    font-size: 16px;
+    margin-left: 85px;
+    padding-top: 0.1px;
+}
+.sixth {
+    color: #19304F;
+    padding-left: 85px;
+    padding-top: 6px;
+    padding-bottom: -45px;
+}
+.seventh {
+    color: #19304F;
+    padding-left: 85px;
+    padding-top: 6px;
+    padding-bottom: -45px;
+}
+.eighth {
+    color: #19304F;
+    padding-left: 85px;
+    padding-top: 6px;
+    padding-bottom: -45px;
+}
+.nineth {
+    color: whitesmoke;
+}
+#third {
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: underline;
+}
+#fourth {
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: underline;
+}
+#fifth {
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: underline;
+}
+#sixth {
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: underline;
+}
+#seventh {
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: underline;
+}
